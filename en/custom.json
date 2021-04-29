@@ -1,6 +1,7 @@
 
 {
   "app": {
-    "pending_cases": "custom Pending Cases"
+    "pending_cases": "custom Pending Cases",
+    "additional": "additional stuff from custom input"
   }
 }
